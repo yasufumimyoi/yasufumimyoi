@@ -1,7 +1,6 @@
 🚀 **フロントエンドエンジニア**  
 
 -  **現在:** SES企業でフロントエンドエンジニアとして勤務  
--  **スキルセット:** React, Next.js, TypeScript, Remix, TailwindCSS, Prisma  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasufumimyoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
