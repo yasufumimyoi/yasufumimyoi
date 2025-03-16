@@ -1,16 +1,20 @@
-## Hi there 👋
+🚀 **フロントエンドエンジニア**  
 
-<!--
-**yasufumimyoi/yasufumimyoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **現在:** SES企業でフロントエンドエンジニアとして勤務  
+-  **スキルセット:** React, Next.js, TypeScript, Remix, TailwindCSS, Prisma  
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasufumimyoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **技術スタック** <br>
+
+**Programming Language:**<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript)](https://skillicons.dev)
+
+**Frontend and lib:**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix)](https://skillicons.dev)
+
+**Tool and Others:** 
+
+[![My Skills](https://skillicons.dev/icons?i=vite,figma,docker)](https://skillicons.dev)
